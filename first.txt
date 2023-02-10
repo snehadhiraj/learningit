@@ -1,1 +1,3 @@
 hello git
+today is 3rd lecture of git.
+10th feb today
