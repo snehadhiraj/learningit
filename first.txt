@@ -2,3 +2,4 @@ hello git
 today is 3rd lecture of git.
 10th feb today
 again changing
+changing to check in remote repo.
